@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648576949500",
+    "project_id": "water-distribution-final",
+    "storage_bucket": "water-distribution-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648576949500:android:db3b27f333b5b6e9b90b79",
+        "android_client_info": {
+          "package_name": "com.example.water_distribution_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648576949500-vdd08g24gea3vukodbuol883sb5cjjdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE5eeKWe7qVIVEvIzsVJz4QN2tjhQu3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648576949500-vdd08g24gea3vukodbuol883sb5cjjdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
